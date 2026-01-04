@@ -53,7 +53,7 @@ Upload a low-resolution image, and **ResoGAN** will enhance its quality!
 |------------------------|-------------------|
 | ![Low-Res](assets/low_res.jpg) | ![High-Res](assets/high_res.jpg) |
 
-(*Replace with actual before/after images.*)  
+ 
 
 ## 📌 Future Improvements  
 ✅ **Train on a Larger Dataset** for even better image enhancement.  
